@@ -1,0 +1,18 @@
+.navbar li{
+  display: inline-block;
+  padding: 10px 5px;
+}
+.navbar{
+  text-align: right;
+}
+.nav-bar-link{
+  color: blue;
+  text-decoration: none;
+}
+.nav-bar-link:hover{
+ color: brown;
+}
+.active{
+  color:red;
+  background-color: chartreuse;
+}
